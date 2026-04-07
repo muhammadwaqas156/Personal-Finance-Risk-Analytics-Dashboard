@@ -147,7 +147,7 @@ These metrics provide a deeper understanding of both **financial performance and
 
 ### Risk & Credit Analysis
 
-![Risk](screenshots/risk.png)
+[![Risk](screenshots/risk.png)](https://github.com/muhammadwaqas156/Personal-Finance-Risk-Analytics-Dashboard/blob/main/1.PNG)
 
 ### Behavioral Insights
 
