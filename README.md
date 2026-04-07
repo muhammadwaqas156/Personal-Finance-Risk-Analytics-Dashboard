@@ -135,23 +135,21 @@ These metrics provide a deeper understanding of both **financial performance and
 
 ### Executive Overview
 
-![Overview](screenshots/overview.png)
+[![Overview](screenshots/overview.png)](https://github.com/muhammadwaqas156/Personal-Finance-Risk-Analytics-Dashboard/blob/main/1.PNG)
 
 ### Spending Analysis
 
-![Spending](screenshots/spending.png)
+[![Spending](screenshots/spending.png)](https://github.com/muhammadwaqas156/Personal-Finance-Risk-Analytics-Dashboard/blob/main/2.PNG)
 
 ### Savings & Goals
 
-![Savings](screenshots/savings.png)
+[![Savings](screenshots/savings.png)](https://github.com/muhammadwaqas156/Personal-Finance-Risk-Analytics-Dashboard/blob/main/3.PNG)
 
 ### Risk & Credit Analysis
 
-[![Risk](screenshots/risk.png)](https://github.com/muhammadwaqas156/Personal-Finance-Risk-Analytics-Dashboard/blob/main/1.PNG)
+[[![Risk](screenshots/risk.png)](https://github.com/muhammadwaqas156/Personal-Finance-Risk-Analytics-Dashboard/blob/main/4.PNG)
 
-### Behavioral Insights
 
-![Behavior](screenshots/behavior.png)
 
 ---
 
@@ -189,7 +187,6 @@ This project is relevant for roles such as:
  ┃ ┣ spending.png
  ┃ ┣ savings.png
  ┃ ┣ risk.png
- ┃ ┗ behavior.png
  ┗ 📄 README.md
 ```
 
